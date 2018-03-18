@@ -30,6 +30,6 @@ print(greetings)
 
 print('My name is ' + name + '.')
 
-print('I am ' + str(age) + ' years old and am majoring in ' + major + '.')
+print('I am ' + str(age) + ' years old and am majoring in ' + major + ".")
 ```
 
