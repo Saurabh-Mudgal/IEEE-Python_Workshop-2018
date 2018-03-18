@@ -14,7 +14,7 @@ Following is the output for the code:
 
 >I am 19.0 years old and am majoring in mechanical engineering.
 
-If you wish to display the aforementioned output as text on the computer screen the following python code  should be used:
+If you wish to display the aforementioned output as text on the computer screen the following python code should be written and executed:
 
 ```python 3
 age = 5+(8%3)-3+(3*10)/2
