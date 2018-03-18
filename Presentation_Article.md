@@ -37,6 +37,6 @@ print('I am ' + str(age) + ' years old and am majoring in ' + major + '.')
 
 __Statement:__ Each line of code in a Python program is called a statement. Python interprets statements and runs them one by one.
 
-__Comments:__ The `#` symbol indicates a comment and anything after # is ignored by the computer. Comments provide information to improve code readability.
+__Comments:__ The `#` symbol indicates a comment and anything after `#` is ignored by the computer. Comments provide information to improve code readability.
 
-Built-in Functions: Python comes with many built-in functions like print() & input() to help you in writing your code.
+__Built-in Functions:__ Python comes with many built-in functions like `print()` & `input()` to help you in writing your code.
