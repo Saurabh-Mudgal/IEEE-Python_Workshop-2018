@@ -16,7 +16,7 @@ Following is the output for the code:
 
 If you wish to display the aforementioned output as text on the computer screen the following python code  should be used:
 
-```python
+```python3
 age = 5+(8%3)-3+(3*10)/2
 
 greetings = 'Welcome to IEEE Python Workshop 2018 edition. It's my pleasure to conduct today's workshop for you.'
@@ -30,6 +30,6 @@ print(greetings)
 
 print('My name is ' + name + '.')
 
-print('I am ' + str(age) + ' years old and am majoring in ' + major + ".")
+print('I am ' + str(age) + ' years old and am majoring in ' + major + '.')
 ```
 
