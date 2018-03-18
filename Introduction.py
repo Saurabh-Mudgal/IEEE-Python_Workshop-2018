@@ -3,6 +3,6 @@ name = "Saurabh Mudgal"
 major = "mechanical engineering"
 age = 19
 
-print(greeting)
+print(greetings)
 print("My name is " + name)
-print("I am " + age + "years old and am majoring in " + major)
+print("I am " + str(age) + " years old and am majoring in " + major)
