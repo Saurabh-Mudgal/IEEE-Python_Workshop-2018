@@ -10,11 +10,9 @@ Following is the output for the code:
 
 > Welcome to IEEE Python Workshop 2018 edition. It's my pleasure to conduct today's workshop for you.
 
-My name is Saurabh Mudgal.
+>My name is Saurabh Mudgal.
 
-I am 19.0 years old and am majoring in mechanical engineering.
-
-
+>I am 19.0 years old and am majoring in mechanical engineering.
 
 If you wish to display the aforementioned output as text on the computer screen the following python code  should be used:
 
