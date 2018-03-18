@@ -1,6 +1,6 @@
 # IEEE-Python_Workshop-2018
-by Saurabh Mudgal for IEEE NTU Student Branch
+*by Saurabh Mudgal for IEEE NTU Student Branch*
 
 
-What is Python?
-dadas
+## What is Python?
+
