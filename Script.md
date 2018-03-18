@@ -51,12 +51,6 @@ Now you might say that hey but the code we just saw was also written in English.
 
 This is followed by the process of linking, in which the IDE links your code to libraries. In programming, a library is a collection of precompiled routines that a program can use. In python, to include a library in your code just type import followed by the library's name. However, you should be careful to write this before any other line of code. In the example below, the "platform" library is linked to the code. This allows the code to use platform.python_version() function. Also note, there is a line of text before the import platform statement. This is coloured grey because this is a comment. Anything in a line that is followed by a #, is excluded from the code and is only present as a comment. The hash is an indicator to the computer that this is a comment and should be overlooked. 
 
-## Types and Values
-> example 2
-> bool type
-> sequence type
-> type() and id()
-
 ## Python
 
 ### Points
@@ -71,9 +65,9 @@ Python was developed in the 1980s by Dutch programmer Guido van Russom. There's 
 
 It's always a good idea to make your code elegant and readable. Explicit is better than implicit. Don't make your readers guess what your code does, make it obvious. Simple is better than complex. If you can make it simple, do. Readability counts. As a casual reader with a good understanding of the Python language, you should be able to understand the code with a minimal amount of effort.
 
-Python 3 is very close to Guido's ideal vision for python. This workshop will teach python 3. Note that there is a considerable difference between python 3 and python 2. Python 3 is also isn't backward compatible; which means codes written in python 3 might not be compatible with python 2.
+Python 3 is very close to Guido's ideal vision for python. This workshop will teach python 3. Note that there are considerable differences between python 3 and python 2. Python 3 also is not backward compatible; which means codes written in python 3 are not be compatible with python 2.
 
-Now, you've had a thorough introduction to programming. Let's proceed to some noteworthy detials of the language. 
+Now that you've had a thorough introduction to programming. Let's proceed to some noteworthy applications of the language. 
 
 
 ## Python Applications
@@ -92,7 +86,7 @@ A more complex code strip can be added to these statements to also on-the-spot a
 
 ### Finance
 
-Finance industry, for example, can save large chunks of time by using pre-written python codes to carry out calculations and tabulations. In addition to the arithmetic operators, python also has a large set of mathmatical functions that it can apply to input data. Hpwever, due to the very nature of programming a problem persists. An over-simplified of the codes is presented below.
+Finance industry can save large chunks of time by using pre-written python codes to carry out calculations and tabulations. In addition to the arithmetic operators, python also has a large set of mathmatical functions that it can apply to input data. Hpwever, due to the very nature of programming a problem persists. An over-simplified of the codes is presented below.
 
 By applying simple logic we will know that 0.1  0.1 + 0.1 - 0.3 will be equal to zero. However, if this operation is carried out in python it will result in a value that is very close to zero but not exactly zero. This is because computer programmes save 0.1 accurate upto say 15 decimal points depending upon the value type. However after 15 decimal points there are random numbers filled in to infinity which vary from 0-9. Computer programmes trade of accuracy for higher precision. To solve this issue while financing or doing calculations involving money we use this statement:
 
