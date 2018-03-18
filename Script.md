@@ -96,4 +96,4 @@ This basically instructs the computer to import a particular function from the c
 
 ## Conclusion
 
-Classes and functions will be discussed in depth in tommorow's workshop and i encourage you to especially attend that.That is time for me. I hope I have equipped you with some basic knowledge of python that is of use for you. Thank you for your patience and attention.
+Classes and functions will be discussed in depth in tommorow's workshop and i encourage you to especially attend that.That is time for me. I hope I have equipped you with some basic knowledge of python that would be of use to you. Thank you for your patience and attention.
