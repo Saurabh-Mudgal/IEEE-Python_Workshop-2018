@@ -98,6 +98,6 @@ from decimal import *
 
 This basically instructs the computer to import a particular function from the class decimal. This enables us to use Decimal format specifier. What we are doing is taking a string 0.10 and converting that to numeric type but only upto two decimal points. So we decrease the precision while increasing the accuracy. Hence by using these values in our calculations leads to the accurate result zero. 
 
-### Conclusion
+## Conclusion
 
 Classes and functions will be discussed in depth in tommorow's workshop and i encourage you to especially attend that.That is time for me. I hope I have equipped you with some basic knowledge of python that is of use for you. Thank you for your patience and attention.
