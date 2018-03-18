@@ -144,7 +144,15 @@ b = Decimal('0.30')
 
 x = a + a + a - b
 
-print(str(x))
+print('x = ' + str(x))
 ```
 
->
+> x = 0
+
+### Additional areas benefiting from python applications
+
+* account management
+* insurance
+* payment processing
+* regulation
+* capital markets
