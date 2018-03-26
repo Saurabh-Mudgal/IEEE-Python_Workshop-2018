@@ -39,6 +39,8 @@ There are two main pre-defined types of variables (although python alows you to 
 
 * Numeric types
 * String types
+* Bool types
+* Sequence types
 
 ```Python 3                            
 a = 9                                 # a is numeric type
