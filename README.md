@@ -6,7 +6,7 @@
 
 ## Hello!
 
-Welcome to the condensed python introduction. For best progress, it's recommended you read <Script.md> simultaneously. Following is the output for the code:
+Welcome to the condensed python introduction. For best progress, it's recommended you read `Script.md` simultaneously. Following is the output for the code:
 
 > Welcome to IEEE Python Workshop 2018 edition. It's my pleasure to conduct today's workshop for you.
 
