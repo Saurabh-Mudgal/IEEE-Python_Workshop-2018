@@ -13,5 +13,5 @@ A step-by-step instructional video _(1)_ for installation of python 3 is also ma
 
 * [_Install Python 3 on Mac/ Apple_](https://tinyurl.com/python-install-mac)
 
-
+##
 _(1) - Adapted from [Lynda](https://www.lynda.com/Python-tutorials/Python-Essential-Training/614299-2.html)_
