@@ -6,7 +6,7 @@
 
 ## Hello!
 
-Welcome to the condensed python introduction. Kindly, refer to `Installing_Python3.md` since you'll need to install python 3 on your devices before you start learning coding. For better understandin, it's recommended that while reading through this document you read `Script.md` simultaneously. Following is the output for the code:
+Welcome to the condensed python introduction. Kindly, refer to `Installing_Python3.md` since you'll need to install python 3 on your devices before you start learning coding. For improved understanding, it's recommended that while reading through this document you read `Script.md` simultaneously. Following is the output for the code:
 
 > Welcome to IEEE Python Workshop 2018 edition. It's my pleasure to conduct today's workshop for you.
 
